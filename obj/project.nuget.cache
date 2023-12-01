@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ViHJ366X2SQDHmZ0XSf0L56dEk7ykh41LsEcaU7XNrxa5yN/YNFl17E4ZDro3wOkl2SvW718W2Dl7itNN2VEpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\computer\\Desktop\\vbprojet\\vbprojet.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\computer\\.nuget\\packages\\fontawesome.sharp\\6.2.1\\fontawesome.sharp.6.2.1.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\optimizeddatareader\\1.1.2\\optimizeddatareader.1.1.2.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\savage.data\\5.5.1\\savage.data.5.5.1.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\sqlserverclient\\5.5.2\\sqlserverclient.5.5.2.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\computer\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
